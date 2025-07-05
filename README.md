@@ -7,17 +7,16 @@ This project focuses on analyzing website session data to uncover user behavior 
 To understand how users interact with a website — session count, device type distribution, bounce behavior, and conversions — and extract valuable business insights for decision-making.
 
 
+## 🛠️ Tools Used
 
-🔧 Tools & Technologies
+- Python  
+- Pandas  
+- Seaborn  
+- Matplotlib  
+- Jupyter Notebook
 
--> Python
--> Pandas
--> seaborn
--> Matplotlib
--> Jupyter Notebook
-
+- 
 ##📁 Dataset Description
-
 The dataset contains the following key fields:
 
       📊 `Channel group`  
@@ -33,23 +32,23 @@ The dataset contains the following key fields:
 
 ##🛠️ How I Worked on This Project
 
-  -> Data Loading & Cleaning 
+  - Data Loading & Cleaning 
   
-  -> Loaded the dataset into a DataFrame. 
+  - Loaded the dataset into a DataFrame. 
   
-  -> Checked for null values and handled missing data. 
+  - Checked for null values and handled missing data. 
   
-  -> Converted time-based columns to datetime for better analysis. 
+  - Converted time-based columns to datetime for better analysis. 
   
-  -> Exploratory Data Analysis (EDA) 
+  - Exploratory Data Analysis (EDA) 
   
-  -> Analyzed session duration distribution. 
+  - Analyzed session duration distribution. 
   
-  -> Grouped data by device type and calculated bounce/conversion rates. 
+  - Grouped data by device type and calculated bounce/conversion rates. 
   
-  -> Plotted visual insights using bar plots and histograms. 
+  - Plotted visual insights using bar plots and histograms. 
   
-  -> Insights & Summary. 
+  - Insights & Summary. 
 
 
 📈 Key Findings (Output)
