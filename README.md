@@ -19,16 +19,16 @@ To understand how users interact with a website — session count, device type d
 ## 📁 Dataset Description
 The dataset contains the following key fields:
 
-      📊 `Channel group`  
-      📅 `DateHour`  
-      👤 `Users`  
-      🔄 `Session`  
-      🤝 `Engaged Sessions`  
-      ⏱️ `Average engagement time per session`  
-      📈 `Engaged sessions per user`  
-      🎯 `Events per session`  
-      ✅ `Engagement rate`   
-      🔢 `Event count`
+      📊  Channel group
+      📅  DateHour  
+      👤  Users  
+      🔄  Session  
+      🤝  Engaged Sessions  
+      ⏱️  Average engagement time per session  
+      📈  Engaged sessions per user  
+      🎯  Events per session  
+      ✅  Engagement rate   
+      🔢  Event count
 
 ## 🛠️ How I Worked on This Project
 
