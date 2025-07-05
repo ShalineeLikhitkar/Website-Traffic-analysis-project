@@ -7,7 +7,7 @@ This project focuses on analyzing website session data to uncover user behavior 
 To understand how users interact with a website — session count, device type distribution, bounce behavior, and conversions — and extract valuable business insights for decision-making.
 
 
-## 🛠️ Tools Used
+## 🛠️ Tools Used 
 
 - Python  
 - Pandas  
