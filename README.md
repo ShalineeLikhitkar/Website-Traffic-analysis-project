@@ -3,7 +3,7 @@
 This project focuses on analyzing website session data to uncover user behavior insights, session duration patterns, bounce rates, and conversion trends. The analysis was conducted using Python, Pandas,seaborn and Matplotlib within a Jupyter Notebook environment.
 
 
-🧠 Objective
+## 🧠 Objective
 To understand how users interact with a website — session count, device type distribution, bounce behavior, and conversions — and extract valuable business insights for decision-making.
 
 
@@ -16,7 +16,7 @@ To understand how users interact with a website — session count, device type d
 - Jupyter Notebook
 
 - 
-##📁 Dataset Description
+## 📁 Dataset Description
 The dataset contains the following key fields:
 
       📊 `Channel group`  
@@ -30,7 +30,7 @@ The dataset contains the following key fields:
       ✅ `Engagement rate`   
       🔢 `Event count`
 
-##🛠️ How I Worked on This Project
+## 🛠️ How I Worked on This Project
 
   - Data Loading & Cleaning 
   
@@ -51,7 +51,7 @@ The dataset contains the following key fields:
   - Insights & Summary. 
 
 
-📈 Key Findings (Output)
+## 📈 Key Findings (Output)
 
   ✅ What patterns or trends can you observe in website sessions and users over time?
   
@@ -69,7 +69,7 @@ The dataset contains the following key fields:
   
 
 
-##📌 Conclusion:
+## 📌 Conclusion:
 
 This analysis helps understand website traffic behavior, improve conversion strategies, and optimize for device-specific performance. This can guide targeted marketing or UI/UX improvements.This analysis helped uncover how users interact with the website across different channel groups and time periods.
 We found that engagement metrics like session count, event frequency, and conversion rates vary based on user behavior and device types.
