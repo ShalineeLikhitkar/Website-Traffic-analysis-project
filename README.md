@@ -33,21 +33,13 @@ The dataset contains the following key fields:
 ## 🛠️ How I Worked on This Project
 
   - Data Loading & Cleaning 
-  
   - Loaded the dataset into a DataFrame. 
-  
-  - Checked for null values and handled missing data. 
-  
-  - Converted time-based columns to datetime for better analysis. 
-  
-  - Exploratory Data Analysis (EDA) 
-  
-  - Analyzed session duration distribution. 
-  
-  - Grouped data by device type and calculated bounce/conversion rates. 
-  
+  - Checked for null values and handled missing data.  
+  - Converted time-based columns to datetime for better analysis.  
+  - Exploratory Data Analysis (EDA)  
+  - Analyzed session duration distribution.   
+  - Grouped data by device type and calculated bounce/conversion rates.  
   - Plotted visual insights using bar plots and histograms. 
-  
   - Insights & Summary. 
 
 
